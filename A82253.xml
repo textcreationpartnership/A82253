@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration published in the north of England, and Sir Arthur Haslerigg's letter to Gen. Monk in Scotland, with his resolution touching the Parliament and Army; the rising of the countrey; and the number of horse and foot, drawing to a randevouz, and marching towards Northumberland. Also, a declaration of the Generall-Council of Officers at Wallingford-House; and the number of horse and foot that are to march from the City of London, towards York.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82253</idno>
+            <idno type="STC">Wing D788</idno>
+            <idno type="STC">Thomason E1005_6</idno>
+            <idno type="STC">ESTC R207904</idno>
+            <idno type="EEBO-CITATION">99866923</idno>
+            <idno type="PROQUEST">99866923</idno>
+            <idno type="VID">168735</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82253)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168735)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 149:E1005[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration published in the north of England, and Sir Arthur Haslerigg's letter to Gen. Monk in Scotland, with his resolution touching the Parliament and Army; the rising of the countrey; and the number of horse and foot, drawing to a randevouz, and marching towards Northumberland. Also, a declaration of the Generall-Council of Officers at Wallingford-House; and the number of horse and foot that are to march from the City of London, towards York.</title>
+                  <author>Hesilrige, Arthur, Sir, d. 1661.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for N. Crook, and are to be sold in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "9ber [i.e. November] 2".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168735:1" rendition="simple:additions"/>
+            <p>A DECLARATION Publiſhed in the North of England, AND Sir <hi>Arthur Haſlerigg's</hi> Letter TO Gen. Monk in Scotland, WITH His Reſolution touching the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> and <hi>Army;</hi> the Riſing of the Countrey; and the number of Horſe and Foot, drawing to a Randevouz, and marching towards <hi>Northumberland.</hi>
+            </p>
+            <p>
+               <hi>ALSO,</hi> A <hi>Declaration</hi> of the Generall-Council of Officers at <hi>Wallingford</hi>-Houſe; And the num<g ref="char:EOLhyphen"/>ber of Horſe and Foot that are to march from the City of <hi>London,</hi> towards <hi>York.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>N. Crook,</hi> and are to be ſold in <hi>Cornhill,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168735:2"/>
+            <pb n="3" facs="tcp:168735:2"/>
+            <p>VVHereas the product of ſeveral years Experience hath manifeſted to theſe Nations the various Changes, and Revolutions, both in Church and State, the admiring Turnings and win<g ref="char:EOLhyphen"/>dings of many in power: yet the ordinary workings of providence hath ſo often ſhown it ſelf in the advancement of this <hi>Commonwealth,</hi> that upon the reading thereof, we may track them in their progreſs: Yet ſeeing it hath pleaſed God by the hand of his wiſe and all diſpo<g ref="char:EOLhyphen"/>ſing Providence, to bring the Affairs of this Nation into the ſtate and condition wherein they now are, the Army hold themſelves obliged to give an accompt to the people of their proceedings therein: And conceiving it unneceſſary to look back, or reflect upon the ſecret De<g ref="char:EOLhyphen"/>ſigns which were contrived in the former Parliament, We hold it ſuf<g ref="char:EOLhyphen"/>ficient thus to demonſtrate: That the Army have declared to walk in the ways of peace and Righteouſneſs, and effectually to eſtabliſh the Nation upon a true <hi>Baſis</hi> of Government, and the happy Foundation of a <hi>Commonwealth;</hi> and not onely to keep theſe Nations from ſink<g ref="char:EOLhyphen"/>ing into confuſion, but to ſee it happily eſtabliſhed upon the juſt prin<g ref="char:EOLhyphen"/>ciples of Liberty and Freedom. And wheras the Parliament was plea<g ref="char:EOLhyphen"/>ſed to reſcent the proceedings of the Army, with a deep ſenſe of diſ<g ref="char:EOLhyphen"/>affection, being highly incenſed by Sir <hi>Arthur Haſlerig,</hi> That they had a dangerous Deſign againſt the Houſe; who declared, That there was a project on foot, to introduce a new Government, by ſetting up a ſingle perſon, &amp;c. Inſomuch, that the Houſe fell into high Debates, expreſſing great heat and anger againſt the Lord <hi>Lambert,</hi> and ſeverall other faithful Officers of his Brigade, voting null their Commiſſions: And afterwards ordered a Bill to be brought in, and (contrary to he uſual Orders of Parl.) thrice read in one and the ſame day, and paſſed into an <hi>Act,</hi> thereby enacting, That all Orders, Ordinances, and Acts made by any ſingle perſon and his Council, or by both or either of them, or otherwiſe, or by any Aſſembly, or Convention pretending to have Authority of Parliament from and after the 19. day of <hi>April,</hi> 1653. and before the 7. of <hi>May</hi> 1659. and which have not bin, or ſhall
+<pb n="4" facs="tcp:168735:3"/> not be enacted, allowen, or confirmed by this preſent Parl. be, ſhould be, and were thereby declared, deemed, taken, and adjudged to be of no force or effect, from and after the ſaid 7. of <hi>May,</hi> 1659. which was altogether contrary to what was humbly deſired in the 30 <hi>Propoſal</hi> of the <hi>Petition</hi> and <hi>Addreſs</hi> of the 12 of <hi>May,</hi> 1659. and committed that <hi>Propoſal</hi> to a Committee of their own, to bring in ſuch a Bill or Bills for that purpoſe, as they thought neceſſary. And in the ſame Bill it was likewiſe contained, <hi>That no perſon or perſons ſhould after the</hi> 11. of <hi>October</hi> (being the very day that the ſaid <hi>Act</hi> was haſtily paſſed) <hi>raiſe moneys without conſent of the people in Parliament,</hi> thereby in an inſtant putting a doubt and diſcompoſure upon all mens mindes that are concerned in matters of that nature, ſo that if any thing ſhould croſs ſuch their ſtrange proceedings, the Army might be neceſſitated to that odious Refuge of Free Quarter, or elſe be expoſed to ſuch <hi>pro<g ref="char:EOLhyphen"/>vocations,</hi> through the want of a fit proviſion for their ſubſiſtence, as might alienate their minds from that care and duty that is incum<g ref="char:EOLhyphen"/>bent on them, for the peace and ſecurity of the Commonwealth. And not onely ſo, but the other miſchiefs ariſing from this precipitate <hi>Act</hi> will prove many and great. For then the moſt choice and godly Mini<g ref="char:EOLhyphen"/>ſters of the Nation will be found to be compriſed herein, and them<g ref="char:EOLhyphen"/>ſelves and their maintainances altogether avoided, and great numbers of prophane and ſcandalous Miniſters, which have bin ejected for near the ſpace of 6 years paſt, will then be re-eſtated; the Adventurers and Soldiers Lands in <hi>Ireland</hi> left at a loſs and in confuſion; the Rebels that were tranſplanted there, be at their liberty to return; the Union made between <hi>England</hi> and <hi>Scotland</hi> rendred <hi>invalid;</hi> all Eſtates con<g ref="char:EOLhyphen"/>ferred on any perſon or perſons by former Governments, though up<g ref="char:EOLhyphen"/>on never ſo valuable and publick conſiderations, left in a dangerous and uncertain condition, to the unravelling and unknown diſcompo<g ref="char:EOLhyphen"/>ſure of ſeveral mens eſtates and intereſts, the conſequences whereof will in ſhort time appear by the ſad effects of multiplying Suits, and vexation of innocent perſons, if the ſaid <hi>Act</hi> could be deemed as <hi>va<g ref="char:EOLhyphen"/>lid.</hi> Concerning which we ſhall add no more but, that had not ſtrange precipitancy and deſign driven it on, it could hardly be believed, that any <hi>Supreme Authority</hi> would ever have expoſed a people to ſuch <hi>in<g ref="char:EOLhyphen"/>conveniences.</hi>
+            </p>
+            <p>Things being thus prepared in order to further ends, the next day (being <hi>Wedneſday</hi>) the Parliament hoping they had a <hi>great</hi> influence
+<pb n="5" facs="tcp:168735:3"/> upon part of the <hi>Army,</hi> and conceiving they had by their late <hi>Acts</hi> ſufficiently <hi>perplexed</hi> thoſe whom they doubted might oppoſed them, and that the <hi>Goverment</hi> of theſe Nations was ſo ſure in their own hands, as in all probability things might come to <hi>confuſion,</hi> except managed by <hi>themſelves,</hi> proceed <hi>vigorouſly</hi> to put their deſigns in pra<g ref="char:EOLhyphen"/>ctice. In the morning, the <hi>Doors</hi> of the <hi>Lobby,</hi> by their <hi>appointment</hi> being faſt <hi>ſhut</hi> and <hi>guarded,</hi> that none might by any means come near to the <hi>Houſe,</hi> or underſtand their <hi>proceeding: Occaſion</hi> is adminiſtred from one of the <hi>Letters</hi> which was <hi>ſigned</hi> by ſeveral <hi>Officers,</hi> accord<g ref="char:EOLhyphen"/>ing to appointment of the <hi>Generall Council,</hi> and ſent to a <hi>Regiment</hi> of the <hi>Army,</hi> and produced by a Member of the Houſe (it being of no other purport then the <hi>ſending</hi> the ſaid <hi>Repreſentation and Petition</hi> to one of the Regiments of the <hi>Army</hi> as is before-mentioned) Yet ne<g ref="char:EOLhyphen"/>vertheleſs they <hi>fell foul</hi> upon the ſeverall <hi>Officers</hi> who had <hi>ſubſcribed</hi> it, and took <hi>this riſe</hi> in purſuance of their <hi>former intent,</hi> to make a plain <hi>breach</hi> upon the <hi>Army;</hi> and thereupon <hi>Vote</hi> out of their Commands (without hearing any one perſon ſpeak for himſelf, or examine whether the perſons whoſe names were ſubſcribed, were their hand-writing or not) the Lord <hi>Lambert,</hi> General <hi>Disborow,</hi> and <hi>ſeven</hi> other <hi>Colonels</hi> and <hi>Field Officers,</hi> diſpoſing <hi>divers</hi> of their <hi>Commands</hi> to the <hi>Officers</hi> next under them: And as they did the <hi>day before,</hi> ſo now, they haſtily paſſed it into an <hi>Act</hi> before they roſe, for the <hi>making void</hi> the Lord <hi>Fleetwoods</hi> Commiſſion, and <hi>enveſting</hi> the <hi>Command</hi> of the <hi>Army</hi> in <hi>ſe<g ref="char:EOLhyphen"/>ven</hi> perſons, whereof himſelf was one, ſome of whom were the <hi>prin<g ref="char:EOLhyphen"/>cipall</hi> in carrying on this whole <hi>deſign.</hi> Whereupon the Houſe <hi>ad<g ref="char:EOLhyphen"/>journed,</hi> and <hi>three</hi> of the ſaid <hi>number</hi> immediately <hi>repaired</hi> to the <hi>Spea<g ref="char:EOLhyphen"/>kers Chamber:</hi> And having <hi>provided</hi> themſelves of <hi>ſix</hi> Barrels of <hi>Pow<g ref="char:EOLhyphen"/>der,</hi> and a <hi>quantity</hi> of <hi>Proviſion,</hi> forthwith gave out <hi>Orders</hi> for Colonel <hi>Morley's</hi> Regiment to <hi>draw</hi> thither; as alſo to divers other <hi>Regiments, Troops</hi> and <hi>Companies,</hi> which they thought would be moſt <hi>ſure</hi> to them; And likewiſe gave order to Colonel <hi>Okey</hi> to draw his <hi>Regi<g ref="char:EOLhyphen"/>ment</hi> to the <hi>Pallace yard,</hi> upon which he <hi>marched</hi> to <hi>Tuttle-fields</hi> with four of his <hi>Troops;</hi> and from thence (having ſent one into the <hi>Pal<g ref="char:EOLhyphen"/>lace-yard</hi> he <hi>marched</hi> with the other three into <hi>London</hi> for <hi>countenan<g ref="char:EOLhyphen"/>cing</hi> the drawing together the <hi>Militia Forces,</hi> in order to a <hi>conjunction</hi> with them, which proved there <hi>ineffectual,</hi> but had other <hi>ſucceſs</hi> in <hi>Southwark,</hi> where by like <hi>directions,</hi> Colonel <hi>Thomſons</hi> Regiment <hi>drew together</hi> under the Command of their <hi>Lieutenant Colonel;</hi> and that
+<pb n="6" facs="tcp:168735:4"/> no endeavours might be wanting, Orders were ſent to Col. <hi>Hackers</hi> Regiment, quartering in and about <hi>Leicesterſhire,</hi> and other Troops in other remote places in the Countrey, to march to <hi>Westminſter</hi> with all ſpeed; the tendency whereof, muſt naturally lead to the engaging the City, Countrey, and Army, in blood.</p>
+            <p>The Officers of the Army having received notice of theſe things, and being greatly amuſed at ſo ſtrange and ſudden a mutation, and that the office of Commander in chief, ſhould be thus minute executed by the hand of my Lord <hi>Fleetwood,</hi> and the next, by the hands of Sir <hi>Ar<g ref="char:EOLhyphen"/>thur Haſilrig,</hi> Col. <hi>Morley,</hi> and Col. <hi>Walton;</hi> and that Orders were ſo ſpeedily haſtned out for the drawing of force together, were in great doubt, that ſuch ſtrange and violent courſes, did portend ſome ſad and fatal event: And thereupon, they judged it their duty, for preſerva<g ref="char:EOLhyphen"/>tion of themſelves, their friends, and honeſt intereſt in the Nation and Army, to draw together in Arms, and march to the Palace yard at <hi>Westminster,</hi> (the place they had appointed for their Rendezvous) to underſtand the reaſons and grounds of their ſo aſſembling themſelves together: And being arrived there, and perceiving that ſeveral Com<g ref="char:EOLhyphen"/>panies of Col. <hi>Morley's</hi> Regiment were placed in the Hall, Gatehouſe, Clockhouſe, and Exchequer Chamber, and thereabouts, in hoſtile manner, all endeavours were uſed to inform them of the true ſtate of affairs, and to draw them to ſuch a compliance wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the reſt of their Brethren of the Army, as might avoid the effuſion of blood; but finding them, by the perſwaſion of their leaders, obſtinately bent to op<g ref="char:EOLhyphen"/>poſe, We found our ſelves neceſſitated to put the Forces into a poſture of defen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e; and for the grounds and reaſons aforementioned, (as alſo, that they might no be further encouraged and countenanced in ſuch a dangerous oppoſition, to the apparent hazard of the publick peace) to put a period and determination to the Parliaments meeting together; and think our ſelves yet further obliged, for preventing of the mani<g ref="char:EOLhyphen"/>fold evils and inconveniences, which muſt neceſſarily fall upon the o<g ref="char:EOLhyphen"/>ther good people of the Nation, as well as our ſelves, by reaſon of the ſeveral Orders, Acts pretended Acts, or other Declaration, or any of them, enacted, made, or paſt on Munday the 10th of this inſtant <hi>Octob.</hi> and on <hi>Tueſday</hi> and <hi>Wedneſday</hi> then next following, to declare them and every of them, null and void, to all intents and purpoſes. And do hereby declare them and every of them, and every clauſe and ſentence therein, invalid, null and void, to all intents and purpoſes: And like<g ref="char:EOLhyphen"/>w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe all Acts, Orde<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and proceedings thereupon had or done, in as
+<pb n="7" facs="tcp:168735:4"/> full, and ample manner, as if the ſaid Orders, Acts, pretended <hi>Act</hi> or <hi>Declarations,</hi> and every of them, had never been. All which, we thought fit to publiſh and declare, to the end, all perſons concerned, may take notice thereof; and no perſon whatſoever, ſuffer any further prejudice thereby, hoping that all peaceable, well minded and unpre<g ref="char:EOLhyphen"/>judiced perſons, will acquieſce in the neceſſity and juſtice thereof.</p>
+            <p>And now we ſhall conclude, in declaring to the World, that it is upon our hearts, and we earneſtly deſire, and ſhall endeavour, that a due liberty may be aſſured to all the <hi>free born people of theſe Nations,</hi> both as Men and Chriſtians: that a full and through Reformation of the Law may be effected, as alſo that a faithful godly and painful Go<g ref="char:EOLhyphen"/>ſpel preaching Miniſtery may be encouraged and provided for, by ſome certain way that may be leſſe troubleſom to them, and leſſe vexatious to the people, then that of Tithes.</p>
+            <p>And we do further declare, That we have no aim or ends, to ſet up a <hi>Military</hi> or <hi>Arbitrary</hi> Government over this Commonwealth, but have already provided, that the Civil and Executive part of Govern<g ref="char:EOLhyphen"/>ment may be lodged in a Committee of ſafety, and they obliged in a ſhort time, to prepare ſuch a form of Government, as may beſt ſuit and comport with a <hi>free State</hi> and <hi>Commonwealth,</hi> without a <hi>ſingle Perſon, Kingſhip,</hi> or <hi>Houſe</hi> of <hi>Pears:</hi> And that we ſhall to the utmoſt of our endeavours, labor to obtain thoſe deſirable things ſo often declared for; and to maintain and preſerve the peace of theſe Nations in our ſeveral Stations and Places, and ſhall hope, that God for his own <hi>Glory,</hi> and the <hi>good</hi> of his own <hi>People,</hi> will give a bleſſed end of theſe troubles, by a happy ſettlement upon the principles formerly declared for; and which have been, and ſtill are ſo earneſtly breathed after, by all thoſe who truly fear his Name,</p>
+            <p>Who, we doubt not, being truly ſenſible of the many temptations beſetting us on every hand, the great difficulties we labor under, (and know not what farther ſtraits a day may bring forth) will ſay on our behalfs, <hi>who are ſufficient for theſe things?</hi> And out of former experi<g ref="char:EOLhyphen"/>ences, being taught, that the Lord <hi>is a preſent help in time of trouble,</hi> will <hi>ery aloud</hi> for us before the <hi>Throne</hi> of <hi>Grace,</hi> That the Lord him<g ref="char:EOLhyphen"/>ſelf may appear, and carry on his own work in our hands. And if it ſhall pleaſe him by his <hi>Spirit,</hi> to ſtir up thoſe that fear his Name, to be inſtant on our behalfs, We ſhall not fear what evil men can do unto us.</p>
+            <pb n="8" facs="tcp:168735:5"/>
+            <p>Thus having preſented you with the ſtate of the Caſe betwixt the Parliament and Army, we ſhall proceed to ſome particulars touching the Effects thereof, upon the return of divers Members to their reſpe<g ref="char:EOLhyphen"/>ctive Counties; who by their intermingled influence upon the Roy<g ref="char:EOLhyphen"/>all Presbyter, as well as Independent, excited the people to no ſmall diſcompoſure of affections againſt the Souldiery, enumerating the dangerous conſequences of a ſtanding army, and their Deſign to intro<g ref="char:EOLhyphen"/>duce a new Government by a ſingle perſon: Withall Declaring, <hi>That the people by their electing Members, to repreſent them in Parlia<g ref="char:EOLhyphen"/>ment, ought not to have their National Knot cut with their own Sword, but to have it employed in the preſervation and defence of their juſt Rights and Liberties, for which end it was raiſed, formed and erected; and that every Individual Member of the Commonwealth ought to be instrumen<g ref="char:EOLhyphen"/>tal in the conſervation thereof, ſo far as it may be lawful, warrantable, &amp; conſiſtent with the Laws of God and Man.</hi>
+            </p>
+            <p>Hereupon Sir <hi>Arthur Haſlerigg</hi> ſeemed not a little active in pro<g ref="char:EOLhyphen"/>moting the Parliaments Intereſt in the North, and to depreſs, extin<g ref="char:EOLhyphen"/>guiſh, and alienate the peoples affections from the Army, which they are prone and inclinable to. And for the more feaſible and effectuall accompliſhing of this Grand Affair, a Letter was ſent into <hi>Scotland,</hi> deſiring Gen. <hi>Monck</hi> forthwith to march into <hi>England;</hi> whoſe expe<g ref="char:EOLhyphen"/>ctations ('tis ſaid) will be anſwered, with his own perſon at the head of an Army, conſiſting of eight or ten thouſand Horſe and Foot. So that it is feared, a war may break in of the Scottiſh ſide, and like a De<g ref="char:EOLhyphen"/>luge ſweep all into Confuſion. To prevent which, the Lord <hi>Lambert</hi> (we hear) is deſigned for thoſe parts, with 7 Regiments of Horſe and Foot, who are to march from the City of <hi>London,</hi> towards <hi>York.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
